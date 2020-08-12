@@ -8,3 +8,9 @@ A controller for traffic light for a two-way junction.
 * The 2 sets of red, yellow and green signals correspond to the traffic lights on the respective roads.
     * 'A' - Ra, Ya, Ga
     * 'B' - Rb, Yb, Gb
+
+### Goals
+- [x] ~~Basic outline for  TLC~~
+- [ ] testbench module for the basic outline version
+- [ ] Expand to a 4 way junction (K.R circle)
+- [ ] Include different timing for the signals
