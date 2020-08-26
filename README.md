@@ -10,7 +10,7 @@ A controller for traffic light for a two-way junction.
     * 'B' - Rb, Yb, Gb
 
 ### Goals
-- [x] ~~Basic outline for  TLC~~
-- [ ] testbench module for the basic outline version
+- [x] Basic outline for  TLC
+- [x] testbench module for the basic outline version
 - [ ] Expand to a 4 way junction (K.R circle)
-- [ ] Include different timing for the signals
+- [x] Include different timing for the signals
