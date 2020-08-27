@@ -14,3 +14,12 @@ A controller for traffic light for a two-way junction.
 - [x] testbench module for the basic outline version
 - [ ] Expand to a 4 way junction (K.R circle)
 - [x] Include different timing for the signals
+
+### Results
+
+![Image of TLC_output](https://raw.githubusercontent.com/SunkeerthM/Traffic-Light-Controller/master/images/TLC_output.png)
+#### Fig 1: TLC_output
+
+
+![Image of  Technology Schematic View](https://raw.githubusercontent.com/SunkeerthM/Traffic-Light-Controller/master/images/Technology%20Schematic%20View.png)
+#### Fig 2: Technology Schematic View
